@@ -1,7 +1,9 @@
+<img align="center" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="logo" style="width: 100%; max-width: 1000px;">
+
 <h1 align="center">Hi 👋, I'm Mohsin Ayaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif”>
+<img align="right" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="image" width="340"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsinayaz&label=Profile%20views&color=0e75b6&style=flat" alt="mohsinayaz" /> </p>
 
